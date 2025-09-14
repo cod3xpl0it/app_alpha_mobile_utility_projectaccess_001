@@ -1,16 +1,13 @@
 # app_alpha_mobile_utility_projectaccess_001
 
-About Quick access to the project and its publications.
+App → indicates that it is part of the software portfolio.
 
-## Getting Started
+Alpha → first experimental version, still in testing.
 
-This project is a starting point for a Flutter application.
+Mobile → targeted at mobile devices (smartphones and tablets).
 
-A few resources to get you started if this is your first Flutter project:
+Utility → a tool or helper type application, designed to make tasks easier.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ProjectAccess → specific functionality for accessing project resources (official website, GitHub, Google Play).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+001 → first unique identifier, used to differentiate this version from future releases.
