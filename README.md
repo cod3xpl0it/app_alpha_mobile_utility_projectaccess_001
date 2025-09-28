@@ -11,3 +11,7 @@ Utility → a tool or helper type application, designed to make tasks easier.
 ProjectAccess → specific functionality for accessing project resources (official website, GitHub, Google Play).
 
 001 → first unique identifier, used to differentiate this version from future releases.
+
+## Preview
+
+![Mockup project](./figma/Project.jpg)
